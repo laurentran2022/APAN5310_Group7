@@ -17,7 +17,7 @@ This is the project submission for group 7 for Spring 2026
   Exported PDF dashboards created in Metabase to visualize key metrics and insights.
 
 - **Final_Report.pdf**  
-  Comprehensive written report detailing methodology, analysis, and findings.
+  Comprehensive written report detailing the project.
 
 - **Presentation_Slides.pdf**  
   Final presentation summarizing project.  
